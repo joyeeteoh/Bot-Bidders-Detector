@@ -2,7 +2,7 @@
 
 Predict whether an online auction bid was placed by a human or an automated bot using deep learning.
 
-This project explores how user bidding behaviour in online auctions can be modeled to distinguish real human bidders from bots. The work is inspired by Kaggle style problems such as the Facebook Recruiting IV: Human or Bot challenge, which focuses on predicting if a bid is made by a human or a bot in large scale bidding logs.  
+This project explores how user bidding behaviour in online auctions can be modeled to distinguish real human bidders from bots. This was presented by Facebook on Kaggle (https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot), which focuses on predicting if a bid is made by a human or a bot in large-scale bidding logs.  
 
 ## Project Overview
 
